@@ -18,7 +18,7 @@
 
 * 🎓 Studying **Computer Science**
 * 💻 Passionate about **Frontend Development**
-* 🌱 Currently improving **JavaScript & Backend Skills**
+* 🌱 Currently improving **JavaScript**
 * 🧠 Love building **clean & responsive UI**
 * 💬 Ask me about **Web Development**
 * 📫 Email: **[mdredwanhossain2007@gmail.com](mailto:mdredwanhossain2007@gmail.com)**
