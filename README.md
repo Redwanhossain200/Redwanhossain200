@@ -102,7 +102,7 @@
 
 * 🚀 Build more **real-world projects**
 * ⚛️ Master **React.js**
-* 🗄️ Learn **Backend Development deeply**
+* 🗄️ Learn **Front-end Development deeply**
 * 🌍 Contribute to **Open Source**
 
 ---
