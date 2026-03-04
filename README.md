@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](https://github.com/Redwanhossain200/Redwanhossain200/blob/main/8392763.jpg)
+![logo](https://github.com/Redwanhossain200/Redwanhossain200/blob/main/banner.jpg)
 
 # Hi 🖐️, I'm Redwan Hossain
 
