@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=redwanhossain200&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=redwanhossain200&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -119,5 +119,14 @@
 <div align="center">
 
 ### ✨ "Code. Improve. Repeat." ✨
+
+</div>
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/redwanhossain200/redwanhossain200/output/github-contribution-grid-snake.svg" />
 
 </div>
