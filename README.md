@@ -32,3 +32,4 @@ Skills: HTML5 / CSS3 / JavaScript
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Redwanhossain200)  
 
+![Redwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Redwanhossain200&show_icons=true&theme=radical)
