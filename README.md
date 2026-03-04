@@ -74,13 +74,25 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=redwanhossain200&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=redwanhossain200&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanhossain200&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=redwanhossain200&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=redwanhossain200&theme=tokyonight" />
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=redwanhossain200&theme=onedark&margin-w=10&no-frame=true" />
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=redwanhossain200&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=redwanhossain200&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
 
 </div>
 
