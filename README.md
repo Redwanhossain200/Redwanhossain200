@@ -74,13 +74,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Redwanhossain200&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=redwanhossain200&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redwanhossain200&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanhossain200&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Redwanhossain200&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=redwanhossain200&theme=tokyonight" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Redwanhossain200&theme=onedark&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=redwanhossain200&theme=onedark&margin-w=10&no-frame=true" />
 
 </div>
 
@@ -95,11 +95,11 @@
 
 ---
 
-## 🤝 Connect With Me
+## 👉 Connect With Me
 
 <p>
 <a href="https://fb.com/redwan" target="_blank">Facebook</a> •
-<a href="mailto:mdredwanhossain2007@gmail.com">Email</a>
+<a href="mailto:mdredwanhossain2007@gmail.com" target="_blank">Email</a>
 </p>
 
 ---
