@@ -110,8 +110,9 @@
 ## 👉 Connect With Me
 
 <p>
-<a href="https://fb.com/redwan" target="_blank">Facebook</a> •
-<a href="mailto:mdredwanhossain2007@gmail.com" target="_blank">Email</a>
+<a href="https://fb.com/redwan" target="_blank">Facebook</a> • 
+<a href="mailto:mdredwanhossain2007@gmail.com" target="_blank">Email</a> • 
+<a href="https://www.instagram.com/mdredwanhossain2007/" target="_blank">Instagram</a>
 </p>
 
 
