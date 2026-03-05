@@ -52,9 +52,6 @@
 ### 📘 Tea House Website
 🔗 https://redwanhossain200.github.io/tea-house-tailwind-project/
 
-### 📘 Web mastery Website
-🔗 https://redwanhossain200.github.io/Animation/
-
 ### 📘 Login form Website
 🔗 https://redwanhossain200.github.io/login-form/
 
