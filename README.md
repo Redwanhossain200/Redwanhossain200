@@ -1,8 +1,8 @@
 <div align="center">
 
-![logo](https://github.com/Redwanhossain200/Redwanhossain200/blob/main/Readme%20Banner.jpg)
+![logo](https://github.com/Redwanhossain200/Redwanhossain200/blob/main/Readme%20Banner.jpg?raw=true)
 
-# Hi 🖐️, I'm Redwan Hossain
+# <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=28&pause=1000&color=00CCFF&width=450&lines=Hi+🖐️,+I'm+Redwan+Hossain;Frontend+Developer;React+Enthusiast;Building+Clean+%26+Responsive+UI" alt="Typing SVG" />
 
 ### 🚀 Frontend Developer | 🎓 Computer Science Student | 🇧🇩 Bangladesh
 
@@ -25,55 +25,41 @@
 
 ---
 
-## 🌐 Featured Project
+## 🌐 Featured Projects
 
 ### 📘 English Vocabulary Learning Website
-🔗 https://redwanhossain200.github.io/english-janala-code/
+🔗 [Visit Project](https://redwanhossain200.github.io/english-janala-code/)
 
 ### 📘 Digitools Webapp
-🔗 https://digitools-bd.netlify.app/
+🔗 [Visit Project](https://digitools-bd.netlify.app/)
 
 ### 📘 Payoo Bank Website
-🔗 https://redwanhossain200.github.io/payoo-code/
+🔗 [Visit Project](https://redwanhossain200.github.io/payoo-code/)
 
 ### 📘 Job Application Website
-🔗 https://redwanhossain200.github.io/A-04-practice/
+🔗 [Visit Project](https://redwanhossain200.github.io/A-04-practice/)
 
 ### 📘 Panda Landing Website
-🔗 https://redwanhossain200.github.io/Panda-project/
+🔗 [Visit Project](https://redwanhossain200.github.io/Panda-project/)
 
 ### 📘 Influencer Product Website
-🔗 https://redwanhossain200.github.io/influencer-gear/
+🔗 [Visit Project](https://redwanhossain200.github.io/influencer-gear/)
 
 ### 📘 Knowledge Vault Website
-🔗 https://redwanhossain200.github.io/B13-A01/
-
-### 📘 TechWave Podcast Website
-🔗 https://redwanhossain200.github.io/B13-A02/
-
-### 📘 Tea House Website
-🔗 https://redwanhossain200.github.io/tea-house-tailwind-project/
-
-### 📘 Login form Website
-🔗 https://redwanhossain200.github.io/login-form/
-
-### 📘 Gallery Website
-🔗 https://redwanhossain200.github.io/gallery/
+🔗 [Visit Project](https://redwanhossain200.github.io/B13-A01/)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
 ### ⚙️ Tools & Backend (Basic)
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,nodejs" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,nodejs,vite" />
 </p>
 
 ---
@@ -83,22 +69,13 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=redwanhossain200&show_icons=true&theme=tokyonight&hide_border=true" />
-
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=redwanhossain200&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=redwanhossain200&theme=tokyonight&hide_border=true" />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=redwanhossain200&theme=tokyo-night&hide_border=true" />
 
@@ -120,10 +97,9 @@
 <p>
 <a href="https://fb.com/redwan" target="_blank">Facebook</a> • 
 <a href="mailto:mdredwanhossain2007@gmail.com" target="_blank">Email</a> • 
-<a href="https://www.instagram.com/mdredwanhossain2007/" target="_blank">Instagram</a> •
+<a href="https://www.instagram.com/mdredwanhossain2007/" target="_blank">Instagram</a> • 
 <a href="https://www.linkedin.com/in/redwan-hossain-dev/" target="_blank">LinkedIn </a>
 </p>
-
 
 <div align="center">
 
@@ -136,7 +112,5 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/redwanhossain200/redwanhossain200/output/github-contribution-grid-snake.svg" />
-
 </div>
