@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/Redwanhossain200/Redwanhossain200/blob/main/Readme%20Banner.jpg)
 
-# Hi 🖐️, I'm Redwan Hossain
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F7F7F7&width=435&lines=Hi+🖐️,+I'm+Redwan+Hossain" alt="Typing SVG" />
 
 ### 🚀 Frontend Developer | 🎓 Computer Science Student | 🇧🇩 Bangladesh
 
