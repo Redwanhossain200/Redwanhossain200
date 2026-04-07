@@ -28,8 +28,10 @@
 ## 🌐 Featured Project
 
 ### 📘 English Vocabulary Learning Website
-
 🔗 https://redwanhossain200.github.io/english-janala-code/
+
+### 📘 Digitools Webapp
+🔗 https://digitools-bd.netlify.app/
 
 ### 📘 Payoo Bank Website
 🔗 https://redwanhossain200.github.io/payoo-code/
