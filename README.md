@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/Redwanhossain200/Redwanhossain200/blob/main/26011.jpg)
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=28&pause=1000&color=00CCFF&width=450&lines=Hi+🖐️,+I'm+Redwan+Hossain;Frontend+Web+Developer;Building+Clean+%26+Responsive+UI" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=28&pause=1000&color=01E49C&width=450&lines=Hi+🖐️,+I'm+Redwan+Hossain;Frontend+Web+Developer;Building+Clean+%26+Responsive+UI" alt="Typing SVG" />
 
 ### 🚀 Frontend Developer | 🎓 Computer Science Student | 🇧🇩 Bangladesh
 
