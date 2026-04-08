@@ -96,7 +96,6 @@
 
 <p>
 <a href="https://fb.com/redwan" target="_blank">Facebook</a> • 
-<a href="mailto:mdredwanhossain2007@gmail.com" target="_blank">Email</a> • 
 <a href="https://www.instagram.com/mdredwanhossain2007/" target="_blank">Instagram</a> • 
 <a href="https://www.linkedin.com/in/redwan-hossain-dev/" target="_blank">LinkedIn </a>
 </p>
