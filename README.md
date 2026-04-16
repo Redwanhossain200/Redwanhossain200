@@ -27,6 +27,9 @@
 
 ## 🌐 Featured Projects
 
+### 📘 Keen Keeper App
+🔗 [Visit Project](https://keen-keeper-app-mocha.vercel.app/)
+
 ### 📘 English Vocabulary Learning Website
 🔗 [Visit Project](https://redwanhossain200.github.io/english-janala-code/)
 
