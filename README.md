@@ -2,9 +2,9 @@
 
 ![logo](https://github.com/Redwanhossain200/Redwanhossain200/blob/main/26011.jpg)
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=28&pause=1000&color=01E49C&width=450&lines=Hi+🖐️,+I'm+Redwan+Hossain;Frontend+Web+Developer;Building+Clean+%26+Responsive+UI" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=28&pause=1000&color=01E49C&width=450&lines=Hi+🖐️,+I'm+Redwan+Hossain;Mern+Stack+Web+Developer;Building+Clean+%26+Responsive+UI" alt="Typing SVG" />
 
-### 🚀 Frontend Developer | 🎓 Computer Science Student | 🇧🇩 Bangladesh
+### 🚀 Mern Stack Developer | 🎓 Computer Science Student | 🇧🇩 Bangladesh
 
 <img src="https://komarev.com/ghpvc/?username=redwanhossain200&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -17,8 +17,8 @@
 # 👨‍💻 About Me
 
 * 🎓 Studying **Computer Science**
-* 💻 Passionate about **Frontend Development**
-* 🌱 Currently improving **JavaScript**
+* 💻 Passionate about **Mern Stack Development**
+* 🌱 Currently improving **Backend & Database Integration**
 * ❤️ Love building **clean & responsive UI**
 * 💬 Ask me about **Web Development**
 * 📫 Email: **[mdredwanhossain2007@gmail.com](mailto:mdredwanhossain2007@gmail.com)**
@@ -26,6 +26,9 @@
 ---
 
 ## 🌐 Featured Projects
+
+### 📘 SkillSphere WebApp
+🔗 [Visit Project](https://skillsphere-webapp.vercel.app/)
 
 ### 📘 Keen Keeper App
 🔗 [Visit Project](https://keen-keeper-app-mocha.vercel.app/)
@@ -88,9 +91,9 @@
 
 ## 🎯 2026 Goals
 
-* 🚀 Build more **real-world projects**
-* ⚛️ Master **React.js**
-* 🗄️ Learn **Front-end Development deeply**
+* 🚀 Build more **real world projects**
+* ⚛️ Master **Web Development**
+* 🗄️ Learn **Mern Stack Development deeply**
 * 🌍 Contribute to **Open Source**
 
 ---
