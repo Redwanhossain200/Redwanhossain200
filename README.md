@@ -40,7 +40,7 @@
 🔗 [Visit Project](https://digitools-bd.netlify.app/)
 
 ### 📘 Payoo Bank Website
-🔗 [Visit Project](https://redwanhossain200.github.io/payoo-code/)
+🔗 [Visit Project](https://redwanhossain200.github.io/payoo-code-redesign/)
 
 ### 📘 Job Application Website
 🔗 [Visit Project](https://redwanhossain200.github.io/A-04-practice/)
