@@ -30,6 +30,9 @@
 ### 📘 SkillSphere WebApp
 🔗 [Visit Project](https://skillsphere-webapp.vercel.app/)
 
+### 📘 Dragon News Website
+🔗 [Visit Project](https://dragon-news-lilac.vercel.app/)
+
 ### 📘 Keen Keeper App
 🔗 [Visit Project](https://keen-keeper-app-mocha.vercel.app/)
 
@@ -60,12 +63,12 @@
 
 ### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs" />
 </p>
 
 ### ⚙️ Tools & Backend (Basic)
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,nodejs,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,nodejs,mongodb,vite" />
 </p>
 
 ---
