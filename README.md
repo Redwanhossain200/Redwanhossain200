@@ -27,6 +27,9 @@
 
 ## 🌐 Featured Projects
 
+### 📘 WanderLust WebApp
+🔗 [Visit Project](https://wanderlust-gold-ten.vercel.app/)
+
 ### 📘 SkillSphere WebApp
 🔗 [Visit Project](https://skillsphere-webapp.vercel.app/)
 
