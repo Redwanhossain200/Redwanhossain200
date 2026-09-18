@@ -141,17 +141,30 @@ Movie discovery application for exploring movies through an interactive interfac
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=redwanhossain200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img
+  src="./profile/stats.svg"
+  height="180"
+  alt="GitHub Stats"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwanhossain200&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  src="./profile/top-langs.svg"
+  height="180"
+  alt="Top Languages"
+/>
 
-<br/><br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=redwanhossain200&theme=tokyonight&hide_border=true" />
+---
 
-<br/><br/>
+## 🔥 GitHub Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=redwanhossain200&theme=tokyo-night&hide_border=true" />
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=redwanhossain200&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
